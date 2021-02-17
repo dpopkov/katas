@@ -2,6 +2,7 @@ Code Katas
 ==========
 
 ## [Start](start)
+* [FizzBuzz](start/first-katas/base-kata/src/main/java/learn/katas/start/FizzBuzz.java)
 
 
 ## [Algo](algo)
