@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>generics-kata</module>
+        <module>generics-kata-solutions</module>
     </modules>
 
     <properties>

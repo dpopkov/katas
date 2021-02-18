@@ -10,6 +10,9 @@ Code Katas
 
 ## [Core](core)
 
+### Generics
+* [Simple generic class](core/corejava/generics-kata/src/main/java/learn/katas/corejava/generics/simple)
+
 
 ## [SQL](sql)
 
