@@ -16,4 +16,15 @@ class ArrayAlgTest {
         assertEquals("A", result.getFirst());
         assertEquals("F", result.getSecond());
     }
+
+    @SuppressWarnings("rawtypes")
+    @Test
+    void testMinMaxCount() {
+        String[] data = {"Bb", "A", "F", "Dd"};
+        Three result = ArrayAlg.minMaxCount(data);
+        assertNotNull(result);
+        assertEquals("A", result.getFirst());
+        assertEquals("F", result.getSecond());
+        assertEquals(6L, result.getThird());
+    }
 }
