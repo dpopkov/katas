@@ -11,6 +11,8 @@
     <modules>
         <module>generics-kata</module>
         <module>generics-kata-solutions</module>
+        <module>fp-kata</module>
+        <module>fp-kata-solutions</module>
     </modules>
 
     <properties>
