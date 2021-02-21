@@ -1,8 +1,11 @@
 Code Katas
 ==========
+[List](candidates.md) of candidates for coding
+
 
 ## [Start](start)
 * [FizzBuzz](start/first-katas/base-kata/src/main/java/learn/katas/start/FizzBuzz.java)
+* [Primary](start/first-katas/base-kata/src/main/java/learn/katas/start/Primary.java)
 
 
 ## [Algo](algo)
