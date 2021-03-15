@@ -4,3 +4,7 @@ Candidates for coding
 ### Simple
 * Числа в порядке убывания частоты встречаемости чисел.
 * Числа-палиндромы, значения которых в прямом и обратном порядке совпадают.
+
+### OCP
+* Localization and Formatting: p3 practice3-2
+
