@@ -11,3 +11,9 @@ Functional
 ### Lambdas
 1. Write a lambda expression that returns product of all numbers in range: 
     [lambda1](fp-kata/src/main/java/learn/katas/corejava/fp/lambda1/BinaryOperations.java)
+
+OCP
+---
+    
+### Date Time API
+* [FormatDateTimeTest](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/datetime/FormatDateTimeTest.java)
