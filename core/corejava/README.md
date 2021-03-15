@@ -17,3 +17,6 @@ OCP
     
 ### Date Time API
 * [FormatDateTimeTest](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/datetime/FormatDateTimeTest.java)
+
+### Localization and Formatting
+* [ApplyLocalizationFormattingTest](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/localization/ApplyLocalizationFormattingTest.java)
