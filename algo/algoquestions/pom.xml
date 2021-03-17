@@ -11,6 +11,8 @@
     <modules>
         <module>questions</module>
         <module>questions-solutions</module>
+        <module>grokking</module>
+        <module>grokking-solutions</module>
     </modules>
 
     <properties>
