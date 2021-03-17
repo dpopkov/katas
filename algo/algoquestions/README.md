@@ -9,5 +9,6 @@ Algo Questions
 Grokking
 ========
 
-|   | Title     | Kata | Solution |
-|---|-----------|------|----------|
+|   | Title     | Kata | Test | Solution |
+|---|-----------|------|------|----------|
+| E | Binary Search | [BinarySearch](grokking/src/main/java/learn/algo/grokking/BinarySearch.java) | [BinarySearchTest](grokking/src/test/java/learn/algo/grokking/BinarySearchTest.java) | [BinarySearch](grokking-solutions/src/main/java/learn/algo/grokking/BinarySearch.java)  |
