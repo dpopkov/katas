@@ -3,9 +3,7 @@ package learn.katas.corejava.streams;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.UnaryOperator;
@@ -103,5 +101,55 @@ public class StreamsUsage1 {
         double totalPrice = -1;
 
         assertEquals(60, totalPrice);
+    }
+
+    @Test
+    void useIntermediateStreamOperations1() {
+        String[] data = {"A", "C", "B", "D", "B", "D"};
+        // Implement: remove duplicates, sort, make lower case and concatenate strings except 1st and 2nd
+        String result = null;
+
+        assertEquals("cd", result);
+    }
+
+    @Test
+    void useIntermediateStreamOperations2() {
+        String[] data = {"B", "C", "A", "E", "D", "F"};
+        // Implement: include elements starting with C and before D, and get no more than 2 elements
+        String result = null;
+
+        assertEquals("CA", result);
+    }
+
+    @Test
+    void useShortCircuitTerminalOperations() {
+        final String[] values = {"RED", "GREEN", "BLUE"};
+        // Implement: test that all are GREEN
+        boolean allGreen = false;
+        // Implement: test that any one is GREEN
+        boolean anyGreen = false;
+        // Implement: test no one is GREEN
+        boolean noneGreen = false;
+        // Implement: find any element
+        Optional<String> any = null;
+        // Implement: find first element
+        Optional<String> first = null;
+
+        assertFalse(allGreen);
+        assertTrue(anyGreen);
+        assertFalse(noneGreen);
+        assertEquals("RED", any.get());
+        assertEquals("RED", first.get());
+    }
+
+    @Test
+    void useReduce() {
+        // Implement: concatenate names of the products
+        String names = null; // products.stream()
+        assertEquals("P1P23P345", names);
+
+        // Implement: concatenate names of the products starting with Prefix and divided with '-' symbol
+        String namesPrefixed = null; // products.stream()
+        assertEquals("Prefix-P1-P23-P345", namesPrefixed);
     }
 }

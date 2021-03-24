@@ -16,6 +16,20 @@ Code Katas
 ### Generics
 * [Simple generic class](core/corejava/generics-kata/src/main/java/learn/katas/corejava/generics/simple)
 
+### Lambdas
+* [lambda1](core/corejava/fp-kata/src/main/java/learn/katas/corejava/fp/lambda1/BinaryOperations.java)
+
+### Streams
+* [StreamsUsage1](core/corejava/streams/src/test/java/learn/katas/corejava/streams/StreamsUsage1.java) / 
+[StreamsUsage1Solutions](core/corejava/streams/src/test/java/learn/katas/corejava/streams/StreamsUsage1Solutions.java)
+
+### OCP examples
+
+#### Date Time API
+* [FormatDateTimeTest](core/corejava/ocp-kata/src/test/java/learn/katas/corejava/ocpkata/datetime/FormatDateTimeTest.java)
+
+#### Localization and Formatting
+* [ApplyLocalizationFormattingTest](core/corejava/ocp-kata/src/test/java/learn/katas/corejava/ocpkata/localization/ApplyLocalizationFormattingTest.java)
 
 ## [SQL](sql)
 
