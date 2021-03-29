@@ -25,3 +25,6 @@ OCP
 
 ### Localization and Formatting
 * [ApplyLocalizationFormattingTest](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/localization/ApplyLocalizationFormattingTest.java)
+
+### Input/Output
+* [Reading/Writing with I/O streams](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/ReadingWriting.java)
