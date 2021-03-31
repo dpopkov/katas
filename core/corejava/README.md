@@ -29,3 +29,5 @@ OCP
 ### Input/Output
 * [Reading/Writing with I/O streams](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/ReadingWriting.java)
 * [Serialization/Deserialization](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/Serialization.java)
+* [Construct Paths](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/ConstructPaths.java)
+* [Navigate File System](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/NavigateFileSystem.java)
