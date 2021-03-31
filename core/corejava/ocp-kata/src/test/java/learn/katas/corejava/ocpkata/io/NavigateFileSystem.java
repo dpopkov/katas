@@ -12,8 +12,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class NavigateFileSystem extends NioTest {
 
-    private static final String NL = System.lineSeparator();
-
     /**
      Creates structure:
      <pre>

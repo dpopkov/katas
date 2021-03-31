@@ -13,8 +13,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class NavigateFileSystemSolution extends NioTest {
 
-    private static final String NL = System.lineSeparator();
-
     /**
      Creates structure:
      <pre>

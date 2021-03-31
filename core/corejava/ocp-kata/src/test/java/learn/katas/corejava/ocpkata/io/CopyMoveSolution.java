@@ -12,8 +12,6 @@ import java.util.stream.Collectors;
 
 public class CopyMoveSolution extends NioTest {
 
-    private static final String NL = System.lineSeparator();
-
     /**
      Creates structure:
      <pre>

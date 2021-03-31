@@ -16,6 +16,7 @@ public abstract class NioTest {
     protected static final String TEST_DATA_FILENAME = "data.txt";
     protected static final String TEST_LINE = "Test content";
     protected static final String TEST_CONTENT = TEST_LINE + System.lineSeparator();
+    protected static final String NL = System.lineSeparator();
 
     protected final Path testDir;
 

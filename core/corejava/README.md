@@ -32,3 +32,4 @@ OCP
 * [Construct Paths](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/ConstructPaths.java)
 * [Navigate File System](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/NavigateFileSystem.java)
 * [Copy and Move Paths](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/CopyMove.java)
+* [Delete Paths](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/DeletePaths.java)
