@@ -33,3 +33,9 @@ OCP
 * [Navigate File System](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/NavigateFileSystem.java)
 * [Copy and Move Paths](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/CopyMove.java)
 * [Delete Paths](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/io/DeletePaths.java)
+
+### Streams
+
+#### Collecting
+* [Basic Collecting](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/streams/CollectingBasic.java)
+* [Collecting into Maps](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/streams/CollectingIntoMaps.java)
