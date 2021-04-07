@@ -39,3 +39,5 @@ OCP
 #### Collecting
 * [Basic Collecting](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/streams/CollectingBasic.java)
 * [Collecting into Maps](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/streams/CollectingIntoMaps.java)
+* [Collecting using Grouping](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/streams/CollectingUsingGrouping.java)
+* [Collecting using Partitioning](ocp-kata/src/test/java/learn/katas/corejava/ocpkata/streams/CollectionPartitioning.java)
